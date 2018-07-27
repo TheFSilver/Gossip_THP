@@ -66,7 +66,7 @@ Un utilisateur peut mettre des likes sur des gossips ou des commentaires.
 
 ## Instructions ##
 Pour tester notre super appli, réalisez les processus suivants :
-- git clone https://github.com/TheFSilver/Gossip_THP
+- git clone https://github.com/skageraz/Gossip_THP
 
 pour copier notre répo sur votre machine
 - cd Gossip_THP/
